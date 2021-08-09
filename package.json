@@ -1,0 +1,20 @@
+{
+  "name": "lets-go",
+  "version": "1.0.0",
+  "description": "This is a sample project to learn how things done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olivein/lets-go.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olivein/lets-go/issues"
+  },
+  "homepage": "https://github.com/Olivein/lets-go#readme"
+}
