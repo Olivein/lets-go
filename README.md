@@ -5,7 +5,7 @@ This is a sample project to learn how things done
 ```
 MIT License
 
-Copyright (c) 2021 Olivein
+Copyright (c) 2021 gokce-pow
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
